@@ -1,8 +1,7 @@
 const App = () => {
   return (
-    <div>Hello Word
-
-      
+    <div>
+      Hello Word
     </div>
   );
 }
